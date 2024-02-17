@@ -5,7 +5,7 @@ export default function App() {
   return (
     <SafeAreaView>
       <View>
-        <Text>Apsssssp</Text>
+        <Text>Hello</Text>
       </View>
     </SafeAreaView>
   )
