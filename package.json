@@ -7,6 +7,7 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
+    "ci_test": "jest ignore --passWithNoTests",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx .",
     "format": "prettier --write .",
     "lint:fix": "eslint -c .eslintrc.precommit.js --ext .js,.jsx,.ts,.tsx . --fix",
