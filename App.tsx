@@ -7,6 +7,7 @@ export default function App() {
       <View
         style={{
           justifyContent: "center",
+          alignContent: "center",
         }}
       >
         <Text>Hello</Text>
