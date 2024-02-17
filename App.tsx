@@ -4,7 +4,11 @@ import React from "react"
 export default function App() {
   return (
     <SafeAreaView>
-      <View>
+      <View
+        style={{
+          justifyContent: "center",
+        }}
+      >
         <Text>Hello</Text>
       </View>
     </SafeAreaView>
